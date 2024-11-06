@@ -7,7 +7,9 @@
 
 ![Eduardo Figueredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduufm&theme=tokyonight&show_icons=true)
 
-### Tecnologias que eu utitlizo :)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduufm)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tecnologias que eu utitlizo:
 
 <div style="display: inline_block"><br/>
  <img align= "center" alt="html5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"  />
